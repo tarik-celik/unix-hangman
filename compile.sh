@@ -1,3 +1,3 @@
 #!/bin/sh
-cc -ansi hangman.c -o hangma
+cc -ansi hangman.c -o hangman
 
